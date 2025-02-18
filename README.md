@@ -4,7 +4,7 @@ This repository contains a Logistic Regression model for classifying the Iris da
 
 ## Dataset
 - **File:** `iris.csv`
-- **Source:** The Iris dataset is a well-known dataset in machine learning, containing 150 samples of Iris flowers with four features:
+- **Source:** The Iris dataset is a well-known dataset in machine learning inbuilt of Sci-kit learn library, containing 150 samples of Iris flowers with four features:
   - Sepal Length
   - Sepal Width
   - Petal Length

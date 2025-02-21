@@ -1,6 +1,6 @@
 # Iris_Dataset_Classfication
 
-This repository contains a Logistic Regression model for classifying the Iris dataset. The model predicts the species of an Iris flower based on its petal and sepal measurements.
+This repository contains a Logistic Regression model for classifying the Iris dataset. The model predicts the species of an Iris flower based on its petal & sepal measurements.
 
 ## Dataset
 - **File:** `iris.csv`

@@ -9,7 +9,7 @@ This repository contains a Logistic Regression model for classifying the Iris da
   - Sepal Width
   - Petal Length
   - Petal Width
-  - Species (target variable)
+  - Species (target)
 
 ## Project Overview
 - **Algorithm:** Logistic Regression

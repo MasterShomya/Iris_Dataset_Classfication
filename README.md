@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
    ```
 
 ## Usage
-- Run all the cells in `iris-logistic-regression.ipynb` to train and evaluate the model.
+- Run all the cell in `iris-logistic-regression.ipynb` to train and evaluate the model.
 - The notebook includes data visualization, preprocessing, model training, and performance evaluation.
 
 ## Results

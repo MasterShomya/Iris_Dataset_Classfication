@@ -13,7 +13,7 @@ This repository contains a Logistic Regression model for classifying the Iris da
 
 ## Project Overview
 - **Algorithm:** Logistic Regression
-- **Implementation:** Jupyter Notebook (`iris-logistic-regression.ipynb`)
+- **Implementation:** Jupyter Notebook
 - **Libraries Used:**
   - NumPy
   - Pandas

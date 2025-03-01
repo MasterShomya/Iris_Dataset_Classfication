@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/MasterShomya/Iris_Dataset_Classification.git
    ```
 
-2. Navigate to the project folder:
+2. Navigate to the Project Folder:
    ```bash
    cd Iris_Dataset_Classification
    ```
